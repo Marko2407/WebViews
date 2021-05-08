@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         webView.setWebViewClient(new WebViewClient()); //saying android that we wants the web to open on app
 
-        webView.loadUrl("https://mbesednik.github.io/Izrada-eCommerce-website/index.html"); //check my friends github profile for more:https://github.com/MBesednik
+        webView.loadUrl("https://mbesednik.github.io/Izrada-eCommerce-website/index.html"); //check my friend github profile for more:https://github.com/MBesednik
 
         // webView.loadData("<html><body><h2>Ja sam Marko</h2></body></htmlY", "text/html", "UTF-8");
 
